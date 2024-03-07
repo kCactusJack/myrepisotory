@@ -1,2 +1,2 @@
 # myrepisotory
-Application team projecr
+Application team project
